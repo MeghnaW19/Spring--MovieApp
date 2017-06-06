@@ -1,0 +1,9 @@
+com/stackroute/ng2boot/repositories/MovieRepository.class
+com/stackroute/ng2boot/controllers/MovieRestController.class
+com/stackroute/ng2boot/service/MovieService.class
+com/stackroute/ng2boot/config/SwaggerConfig.class
+com/stackroute/ng2boot/controllers/HeteoasLinkAssemblerImpl.class
+com/stackroute/ng2boot/Ng2bootApplication.class
+com/stackroute/ng2boot/controllers/HeteoasLinkAssembler.class
+com/stackroute/ng2boot/domain/Movie.class
+com/stackroute/ng2boot/service/MovieServiceImp.class
